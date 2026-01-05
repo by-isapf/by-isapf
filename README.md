@@ -1,6 +1,6 @@
 # Hi, I’m Isabel Freire 👋
 
-🎓 Computer Technician graduated from IFRN
+🎓 Computer Technician graduated from IFRN                                                                                                                                                 
 🎓 Undergraduate student in Information Technology at UFERSA
 
 💻 Passionate about software development and technology.
