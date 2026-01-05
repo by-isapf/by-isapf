@@ -3,9 +3,9 @@
 🎓 Computer Technician graduated from IFRN                                                                                                                                                 
 🎓 Undergraduate student in Information Technology at UFERSA
 
-💻 Passionate about software development and technology.
-🚀 Experience and strong interest in languages such as Python, Java, and C.
-🌐 Web development using Django.
+💻 Passionate about software development and technology.                                                                                                                                   
+🚀 Experience and strong interest in languages such as Python, Java, and C.                                                                                                                
+🌐 Web development using Django.                                                                                                                                                           
 🎨 Also interested in design and usability.  
 
 ## Technologies and tools I use:
